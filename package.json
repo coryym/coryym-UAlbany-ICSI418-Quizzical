@@ -1,0 +1,14 @@
+{
+  "name": "Quizzical",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": "https://github.com/coryym/coryym-UAlbany-ICSI418-Quizzical.git",
+  "author": "Cory <cmarriott@albany.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}

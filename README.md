@@ -1,3 +1,1 @@
-# ICSI - 418
-# Softare Engineering
-# Quizzical
+# ICSI - 418 - Softare Engineering - Quizzical
