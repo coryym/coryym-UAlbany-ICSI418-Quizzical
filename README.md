@@ -1,4 +1,5 @@
-#Before you start testing
+# Before you start testing
+
 I didn't include the node_modules becuase there huge and its bad practice to include them.
 
 ## Setup
@@ -11,7 +12,7 @@ npm i <package>
 For the Frontend part of the project I used react so you need to use
 
 ```bash
-npm create-react-app <name of folder>
+create-react-app <name of folder>
 ```
 
 and to run the application use the command
@@ -20,3 +21,5 @@ and to run the application use the command
 npm run testing
 
 ```
+## Install dependencies
+To find the dependencies you need to install just read the package.json files and look at the dependecies section.
