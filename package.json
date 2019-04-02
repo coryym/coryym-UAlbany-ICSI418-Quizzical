@@ -1,0 +1,23 @@
+{
+  "name": "quizzical",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testing": "npm start --prefix testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coryym/coryym-UAlbany-ICSI418-Quizzical.git"
+  },
+  "author": "cory",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coryym/coryym-UAlbany-ICSI418-Quizzical/issues"
+  },
+  "homepage": "https://github.com/coryym/coryym-UAlbany-ICSI418-Quizzical#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
